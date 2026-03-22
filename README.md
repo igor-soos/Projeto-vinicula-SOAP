@@ -2,8 +2,6 @@
 
 Projeto desenvolvido para demonstrar a criação e consumo de Web Services SOAP utilizando Java e Maven.
 
--Desenvolvedor: Igor Soos Rocha Ribeiro - RM556010
-
 O sistema simula uma vinícola com serviços de:
 
 -Consulta de estoque de vinhos
@@ -11,6 +9,12 @@ O sistema simula uma vinícola com serviços de:
 -Realização de pedidos
 
 -Alertas de estoque insuficiente
+
+# Desenvolvedores:
+
+Igor Soos Rocha Ribeiro - RM556010
+
+Yuri S. Pessoa - RM557475
 
 # Estrutura do Projeto
 
